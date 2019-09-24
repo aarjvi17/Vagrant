@@ -1,5 +1,5 @@
 # Vagrant
-<<<<<<< HEAD
+
 • First we have install the vagrant our computer.
 • All our vagrant instance set up and development are saved in the same folder and inside that folder we have our vagrant file.
 • After doing vagrant init, it will generate the Vagrantfile in which we have written all our configuration.
@@ -14,5 +14,5 @@
 • Which installs the centos and ubuntu virtual machine together using a single Vagrantfile.
 • We have defined instance image, hostname, network etc in the file.
 
-=======
->>>>>>> 730136a2fefe55724f88ab068c51df210da30ebc
+
+
