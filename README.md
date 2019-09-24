@@ -1,6 +1,6 @@
 # Vagrant
-#First we have install the vagrant our computer.
-#All our vagrant instance set up and development are saved in the same folder and inside that folder we have our vagrant      file.
+•First we have install the vagrant our computer.
+•All our vagrant instance set up and development are saved in the same folder and inside that folder we have our vagrant      file.
 •	After doing vagrant init, it will generate the Vagrantfile in which we have written all our configuration.
 •	First we have written the name of the image for the virtual machine, then we have defined the hostname.
 •	Then we have specify the public network which uses the bridge connection over wifi that includes “dhcp” protocol.
